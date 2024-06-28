@@ -1,4 +1,4 @@
-# Malnurist
+# Track and Trace Malnourished Childrens
 
 A Flask web application for predicting malnutrition using a RandomForest model.
 
